@@ -1,0 +1,13 @@
+id,animal_protein,type,protein_g_per_100g,basis,texture_and_role,common_nigerian_use
+A01,Chicken,Poultry,31,cooked breast,"Lean, mild, shreds or slices","Jollof rice, fried rice, pepper soup, suya"
+A02,Beef,Red meat,26,cooked,"Chewy, rich, savoury","Stews, suya, meat pie fillings"
+A03,Goat meat,Red meat,27,cooked,"Dense, strong flavour","Pepper soup, asun, stews"
+A04,Fish (fresh),Fish,26,"cooked, e.g. tilapia","Flaky, mild","Pepper soup, stew, grilled fish"
+A05,Dried fish / stockfish,Fish,70,dried (approx 60-80),"Chewy, intense umami","Egusi, ogbono, efo riro"
+A06,Crayfish,Seafood,60,dried (approx),"Powdery, savoury seasoning","Soups, stews, jollof"
+A07,Eggs,Egg,13,"whole, cooked","Binder, soft set","Sauce, akara alternative, fillings"
+A08,Cow milk,Dairy,3.4,per 100 ml,Creamy liquid,"Tea, pap, baking"
+A09,Ponmo / shaki,Offal/Hide,,"collagen-rich, low-quality protein",Very chewy,"Soups, stews"
+A10,Snail,Other meat,16,cooked (approx),"Chewy, tender","Peppered snail, pepper soup"
+A11,Sausage / processed meat,Processed,13,approx,"Firm, salty, spiced","Sausage rolls, snacks"
+A12,Butter / animal fat,Fat,0.9,butter,"Rich, creamy","Baking, frying, sauces"

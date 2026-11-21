@@ -1,0 +1,42 @@
+﻿slug,name,category,market,unit,price,currency,day_change_percent,week_change_percent,source,as_of,confidence
+cement-nigeria,Cement,building-materials,Nigeria,50kg bag,9500,NGN,1.6,3.2,"Dealer survey (Lagos, Abuja, Kano)",2026-06-23T08:00:00Z,high
+rebar-10mm-nigeria,Iron Rod (10mm rebar),building-materials,Nigeria,per length,8000,NGN,0,0,Steel merchant survey — Titanium Building Solutions list (2025) + 2026 per-tonne weight cross-check,2026-02-01T00:00:00Z,medium
+rebar-12mm-nigeria,Iron Rod (12mm rebar),building-materials,Nigeria,per length,9800,NGN,0.5,-1.1,Steel merchant survey,2026-06-23T08:00:00Z,medium
+rebar-16mm-nigeria,Iron Rod (16mm rebar),building-materials,Nigeria,per tonne,1010000,NGN,0,0,"Steel merchant survey — bestsales.ng (Feb 2026, ₦1.01m/t) & nigprices/spiritlevel 2026 cluster (₦1.01–1.10m/t)",2026-07-03T00:00:00Z,medium
+rebar-25mm-nigeria,Iron Rod (25mm rebar),building-materials,Nigeria,per length,50000,NGN,0,0,Steel merchant survey — Titanium Building Solutions list (Feb 2025) + 2026 per-tonne weight cross-check,2026-02-01T00:00:00Z,medium
+rebar-20mm-nigeria,Iron Rod (20mm rebar),building-materials,Nigeria,per length,32000,NGN,0,0,Steel merchant survey — Titanium Building Solutions list (Feb 2025) + 2026 per-tonne weight cross-check,2026-02-01T00:00:00Z,medium
+sandcrete-block-9inch-lagos,Sandcrete Block (9 inch),building-materials,Lagos,per block,750,NGN,0,2,Block industry survey,2026-06-23T08:00:00Z,medium
+sandcrete-block-6inch-lagos,Sandcrete Block (6 inch),building-materials,Lagos,per block,550,NGN,0,0,Block industry survey + 2026 merchant listings,2026-06-23T08:00:00Z,medium
+cement-dangote-nigeria,Dangote Cement (50kg),building-materials,Nigeria,50kg bag,11000,NGN,0,0,"Dealer survey (Lagos/Abuja/PH) — Legit.ng & BuildWithEase, Jun 2026",2026-06-26T00:00:00Z,medium
+cement-bua-nigeria,BUA Cement (50kg),building-materials,Nigeria,50kg bag,10500,NGN,0,0,"Dealer survey (Lagos/Abuja/PH) — Legit.ng & BuildWithEase, Jun 2026",2026-06-26T00:00:00Z,medium
+cement-lafarge-nigeria,"Lafarge Cement (Elephant, 50kg)",building-materials,Nigeria,50kg bag,10000,NGN,0,0,"Dealer survey — BuildWithEase, NaijaSabi & Legit.ng (verified Jun 2026)",2026-06-28T00:00:00Z,medium
+granite-chippings-34-nigeria,Granite Chippings (3/4 inch),building-materials,Nigeria,per tonne,8500,NGN,0,0,"Quarry & dealer survey — Prioni & Nigerian Price, 2026",2026-06-26T00:00:00Z,medium
+granite-chippings-12-nigeria,Granite Chippings (1/2 inch),building-materials,Nigeria,per tonne,7500,NGN,0,0,"Quarry & dealer survey — Prioni & Zenith Crusher, 2026",2026-06-26T00:00:00Z,medium
+sharp-sand-nigeria,Sharp Sand,building-materials,Nigeria,per tonne,4500,NGN,0,0,Quarry & dealer survey — Prioni (2026) & nigprices,2026-06-23T08:00:00Z,medium
+laterite-nigeria,Laterite (filling sand),building-materials,Nigeria,per tonne,3500,NGN,0,0,Sand & laterite dealer survey — Nigerian Informer (Jun 2026) & Nigerian Queries (Mar 2026),2026-06-18T00:00:00Z,medium
+roofing-aluminium-longspan-nigeria,"Aluminium Roofing Sheet (long-span, 0.55mm)",building-materials,Nigeria,per m²,7500,NGN,0,0,"Roofing dealer price list — Ideal Roofing & TopKen, Jun 2026",2026-06-26T00:00:00Z,medium
+roofing-stone-coated-nigeria,Stone-Coated Roofing Sheet (0.55mm),building-materials,Nigeria,per m²,5700,NGN,0,0,"Roofing dealer price lists — TopKen, Ideal Roofing & Jumac, Jun 2026",2026-06-26T00:00:00Z,medium
+binding-wire-nigeria,Binding Wire (tie wire),building-materials,Nigeria,per kg,4650,NGN,0,0,"Dealer survey — NigerianQueries & nairaprice.com.ng, Jun 2026",2026-06-26T00:00:00Z,medium
+marine-plywood-18mm-nigeria,"Marine Plywood (18mm, 8×4 sheet)",building-materials,Nigeria,per sheet,42000,NGN,0,0,"Dealer & marketplace listings — Titanium Building Solutions (Lekki) & Jiji (Pioneer/Wewood), Jun 2026",2026-06-28T00:00:00Z,medium
+nails-3inch-nigeria,Wire Nails (3 inch),building-materials,Nigeria,per bag,28000,NGN,0,0,"Hardware listings — easybuild.com.ng (₦29k, 2026) & bestsales.ng bag-of-nails survey (2025)",2026-06-30T00:00:00Z,medium
+pop-cement-40kg-nigeria,"POP Cement (Plaster of Paris, 40kg)",building-materials,Nigeria,per bag,10750,NGN,0,0,Merchant listings — Nigerian Informer & PricesNow (Jun 2026),2026-06-30T00:00:00Z,medium
+ceramic-floor-tile-30x30-nigeria,Ceramic Floor Tile (30×30cm),building-materials,Nigeria,per pack,1350,NGN,0,0,Building-market guides — EngineeringAll (5 Mar 2026) & Nigerian Queries (28 Mar 2026),2026-03-28T00:00:00Z,medium
+rice-local-nigeria,Rice (local),food-staples,Nigeria,50kg bag,82000,NGN,0.4,-2.3,Wholesale market survey,2026-06-23T08:00:00Z,medium
+rice-imported-nigeria,Rice (imported),food-staples,Nigeria,50kg bag,112285,NGN,0,0,NBS Selected Food Price Watch (May 2026),2026-05-15T00:00:00Z,high
+garri-white-nigeria,Garri (white),food-staples,Nigeria,50kg bag,40662,NGN,0,0,NBS Selected Food Price Watch (May 2026),2026-05-15T00:00:00Z,high
+palm-oil-lagos,Palm Oil,food-staples,Lagos,25 litres,48000,NGN,-0.8,1.7,Mile 12 & Daleko market survey,2026-06-23T08:00:00Z,medium
+groundnut-oil-nigeria,Groundnut Oil,food-staples,Nigeria,25 litres,62000,NGN,0.3,0.9,Market survey,2026-06-23T08:00:00Z,low
+yam-tuber-nigeria,Yam (tuber),food-staples,Nigeria,per tuber (medium),2347,NGN,0,0,NBS Selected Food Price Watch (May 2026),2026-05-15T00:00:00Z,high
+petrol-pms-nigeria,Petrol (PMS),energy,Nigeria,per litre,1075,NGN,0,-0.2,"Dangote ex-gantry dollar template (13 Jul 2026, $0.779/L ≈ ₦1,075.61) + station price survey (GlobalPetrolPrices/NMDPRA)",2026-07-13T00:00:00Z,high
+diesel-ago-nigeria,Diesel (AGO),energy,Nigeria,per litre,1500,NGN,0,0,"Dangote ex-gantry dollar template ($1.087/L, 13 Jul 2026) + retail station survey (GlobalPetrolPrices/NBS AGO Price Watch)",2026-07-13T00:00:00Z,high
+cooking-gas-lpg-nigeria,Cooking Gas (LPG),energy,Nigeria,per kg,1400,NGN,0,0,"LPG marketer survey — Punch/NALPGAM national range ₦1,100–₦1,650/kg (30 Jun 2026) + Pulse city survey ₦1,100–₦1,500 (1 Jul 2026) + Businessday retailers ₦1,400/kg",2026-07-01T00:00:00Z,medium
+cooking-gas-12-5kg-nigeria,Cooking Gas (12.5kg refill),energy,Nigeria,per 12.5kg refill,22382,NGN,0,0,NBS LPG (Cooking Gas) Price Watch (April 2026),2026-04-15T00:00:00Z,high
+kerosene-hhk-nigeria,Kerosene (HHK),energy,Nigeria,per litre,2972,NGN,0,0,NBS Household Kerosene Price Watch (May 2026),2026-05-15T00:00:00Z,high
+electricity-band-a-nigeria,Electricity (Band A tariff),energy,Nigeria,per kWh,209.5,NGN,0,0,NERC (Nigerian Electricity Regulatory Commission) — Band A MYTO tariff order (Nov 2025),2025-12-01T00:00:00Z,medium
+maize-white-nigeria,Maize (white),agriculture,Nigeria,per kg,816,NGN,0,0,NBS Selected Food Price Watch (May 2026),2026-05-15T00:00:00Z,high
+beans-brown-nigeria,Brown Beans (cowpea),agriculture,Nigeria,per kg,1345,NGN,0,0,NBS Selected Food Price Watch (May 2026),2026-05-15T00:00:00Z,high
+tomato-nigeria,Tomato,agriculture,Nigeria,per kg,1561,NGN,0,0,NBS Selected Food Price Watch (May 2026),2026-05-15T00:00:00Z,high
+onion-nigeria,Onion (bulb),agriculture,Nigeria,per kg,1180,NGN,0,0,NBS Selected Food Price Watch (May 2026),2026-05-15T00:00:00Z,high
+ginger-fresh-nigeria,Ginger (fresh),agriculture,Nigeria,per kg,5907,NGN,0,0,NBS Selected Food Price Watch (May 2026),2026-05-15T00:00:00Z,high
+beef-boneless-nigeria,Beef (boneless),agriculture,Nigeria,per kg,7171,NGN,0,0,NBS Selected Food Price Watch (May 2026),2026-05-15T00:00:00Z,high
+eggs-crate-nigeria,Eggs (crate of 30),agriculture,Nigeria,crate of 30,6143,NGN,0,0,NBS Selected Food Price Watch (April 2026),2026-04-15T00:00:00Z,medium

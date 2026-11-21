@@ -1,0 +1,33 @@
+animal_id,animal_protein,substitute_id,substitute,texture_match_1to5,flavour_match_1to5,ratio_guide,fix_to_close_gap,example_dish
+A01,Chicken,I03,Soy chunks (soya meat),4,3,Rehydrated 1:1 by weight,"Add B12 source; season with yaji, thyme, curry",Soy chunk jollof/fried rice
+A01,Chicken,I02,Tofu (awara),3,2,Firm tofu 1:1 by weight,"Press, fry until golden; add iru for depth",Tofu pepper soup or stew
+A01,Chicken,I21,Oyster mushroom,3,3,1:1 by weight (fresh),Pair with beans to raise protein,Mushroom asun-style stir-fry
+A02,Beef,I03,Soy chunks (soya meat),4,3,Rehydrated 1:1,Brown well; add iru or mushroom powder for umami,Soy beef stew
+A02,Beef,I21,Oyster mushroom,4,3,1:1 (fresh),Sear dry to get meaty chew,Mushroom suya
+A02,Beef,I10,Kuli-kuli,3,4,Crumb as topping,Coat with yaji; serve with onions and tomatoes,Kuli-kuli suya bowl
+A03,Goat meat,I03,Soy chunks (soya meat),4,3,Rehydrated 1:1,Use pepper-soup spice and scent leaf,Soy pepper soup
+A03,Goat meat,I21,Oyster mushroom,3,3,1:1 (fresh),Cook briefly so it does not go soggy,Mushroom asun
+A03,Goat meat,I36,Jackfruit (young),4,2,"Shredded, 1:1",Add beans or soy for protein,Shredded jackfruit stew
+A04,Fish (fresh),I02,Tofu (awara),3,2,Firm tofu 1:1,Add crayfish substitute and spirulina for sea flavour,Tofu fish-style stew
+A04,Fish (fresh),I05,Cowpea (brown/white beans),3,3,Bean paste,Season and steam,Moi moi with iru and pepper
+A05,Dried fish / stockfish,I20,Oil bean seed (ugba),3,4,Small quantities,Wash well; add to soup base,Ugba in egusi or ogbono
+A05,Dried fish / stockfish,I19,Locust bean (iru/dawadawa),1,5,1-2 tbsp per pot,"Use as seasoning, not as bulk protein",Egusi or efo riro with iru
+A05,Dried fish / stockfish,I21,Oyster mushroom,3,4,"Dried mushroom, 1:1","Soak, then fry for chew",Mushroom in egusi
+A06,Crayfish,I23,Cricket (dried),2,4,"Powder, 1:1 by weight",Check allergens; roast and grind,Cricket-powder jollof
+A06,Crayfish,I19,Locust bean (iru/dawadawa),1,4,1 tbsp per pot,Stir in early,Soups and stews
+A06,Crayfish,I24,Termite (alate),3,4,"Dried, 1:1",Source safely; cook well,Termite stew
+A07,Eggs,I05,Cowpea (brown/white beans),4,3,Bean paste as binder,Season well,"Akara, moi moi"
+A07,Eggs,I02,Tofu (awara),4,3,Crumbled tofu 1:1,Add turmeric and onions for colour,Tofu scramble sauce
+A07,Eggs,I06,Bambara nut,3,2,Flour as binder,Mix with water,Bambara patty or okpa
+A08,Cow milk,I04,Soy milk,4,4,1:1,Check B12 and calcium fortification,"Tea, pap, smoothies"
+A08,Cow milk,I31,Tiger nut,3,3,1:1,Strain well; add dates if sweet,Kunun aya
+A08,Cow milk,I09,Groundnut,3,3,1:1,Blend and strain,Groundnut milk
+A08,Cow milk,I34,Coconut,4,3,1:1,Use unsweetened,"Coconut rice, soups"
+A09,Ponmo / shaki,I21,Oyster mushroom,3,2,1:1,Chop and slow-cook for chew,Mushroom in soup
+A09,Ponmo / shaki,I03,Soy chunks (soya meat),3,2,Rehydrated 1:1,Slice thinly; season strongly,Soy shaki-style stew
+A09,Ponmo / shaki,I20,Oil bean seed (ugba),3,3,Small quantities,Use as a chewy side,Abacha with ugba
+A10,Snail,I21,Oyster mushroom,4,3,1:1 (fresh),Cut into rounds; pepper sauce,Peppered mushroom snail
+A11,Sausage / processed meat,I03,Soy chunks (soya meat),3,3,Ground and rehydrated,Add binder (cowpea paste) and spices,Soy sausage roll filling
+A12,Butter / animal fat,I32,Avocado,3,3,1:1,Add at end to preserve flavour,Avocado spread or sauce
+A12,Butter / animal fat,I09,Groundnut,3,3,Paste 1:1,Use unsweetened,Groundnut sauce
+A12,Butter / animal fat,I33,African pear,4,3,Mashed 1:1,Use ripe,Ube spread or sauce
